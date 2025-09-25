@@ -26,4 +26,4 @@ jobs:
 
     - name: Run script
       run: |
-        python au.py
+        python m.py
