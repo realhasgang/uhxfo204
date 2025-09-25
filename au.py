@@ -268,7 +268,7 @@ def format_result(result, username="User"):
 𝗧𝗶𝗺𝗲 ➜ {time_taken} 𝐬𝐞𝐜𝐨𝐧𝐝𝐬
 𝐂𝐡𝐞𝐜𝐤𝐞𝐝 𝐁𝐲 ➜ {username} [ PREMIUM ]
 ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━
-𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐂𝐲𝐛𝐨𝐫✘"""
+𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐈𝐁𝐑✘𝐏𝐫𝐞𝐦𝐢𝐮𝐦"""
     
     return formatted
 
@@ -325,7 +325,7 @@ async def status(message: types.Message):
 ⏱️ Delay: 5-10 seconds
 🔍 BIN Lookup: Enabled
 ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━
-𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐂𝐲𝐛𝐨𝐫✘
+𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐈𝐁𝐑✘𝐏𝐫𝐞𝐦𝐢𝐮𝐦
 """
     await message.answer(status_msg)
 
@@ -460,7 +460,7 @@ async def mass(message: types.Message):
 ❌ 𝐃𝐞𝐜𝐥𝐢𝐧𝐞𝐝: {declined_count}
 ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━
 𝐂𝐡𝐞𝐜𝐤𝐞𝐝 𝐁𝐲 ➜ {username} [ PREMIUM ]
-𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐂𝐲𝐛𝐨𝐫✘
+𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐈𝐁𝐑✘𝐏𝐫𝐞𝐦𝐢𝐮𝐦
 """
     await message.answer(summary)
     
@@ -513,7 +513,7 @@ async def start(message: types.Message):
 • Current: {current_limit} cards
 
 ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━
-𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐂𝐲𝐛𝐨𝐫✘
+𝐁𝐨𝐭 𝐁𝐲 ➜ 𝐈𝐁𝐑✘𝐏𝐫𝐞𝐦𝐢𝐮𝐦
 """
     await message.answer(welcome_msg)
 
