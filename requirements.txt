@@ -3,3 +3,4 @@ aiogram
 fake-useragent
 colorama
 brotli
+faker
